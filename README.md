@@ -4,7 +4,6 @@
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=addavo" alt = "Profile Views"/>
 </p>
-	https://komarev.com/ghpvc/?username=addavo)
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
