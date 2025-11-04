@@ -7,7 +7,7 @@
 ### Tecnologías y Herramientas:
 <p align="left">
     <p align="left">
-    <img src="https://skillicons.dev/icons?i=androidstudio,blender,c,cs,cpp,css,figma,firebase,git,html,java,js,mysql,photoshop,php,sass,vue,nuxt,vscode,flask,flutter,gitlab,gradle,godot,nodejs,py,vite,vuetify,mongodb,fastapi,autopsy" alt="Tecnologías y Herramientas" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,blender,c,cs,cpp,css,figma,firebase,git,html,java,js,mysql,photoshop,php,sass,vue,nuxt,vscode,flask,flutter,gitlab,gradle,godot,nodejs,py,vite,vuetify,mongodb,fastapi,cellebrite" alt="Tecnologías y Herramientas" />
 </p>
 </p>
 <p align = "center">
