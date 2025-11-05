@@ -20,7 +20,9 @@ Throughout my studies, I have acquired a solid foundation in programming, data m
 I am known for my responsibility, analytical thinking, quick learning ability, and teamwork skills, as well as my proactive and results-oriented attitude.  
 I am constantly learning, always seeking new challenges that allow me to grow professionally and contribute value through technology.
 </p>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="180"/>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=addavo" alt="Profile Views"/>
 </p>
