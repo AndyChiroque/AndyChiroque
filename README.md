@@ -100,5 +100,5 @@
 
 <!-- Snake -->
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/AndyChiroque/AndyChiroque/blob/output/github-snake-dark.svg" alt="GitHub Snake gif" />
 </p>
