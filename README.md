@@ -8,7 +8,9 @@
   Hi there, I'm Andy Chiroque 
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="25">
 </h2>
-
+<p align="center">
+📫 Contacto: <a href="mailto:andyalessandrochiroqueadanaque@gmail.com"><strong>andyalessandrochiroqueadanaque@gmail.com</strong></a>
+</p>
 <table align="center">
   <td>
     <img src="https://media.tenor.com/sLFOKwmbPtYAAAAj/conducting-kyle-broflovski.gif" width="40">
@@ -16,9 +18,8 @@
     <img src="https://media.tenor.com/Tne3mdE5EeEAAAAi/conducting-stan-marsh.gif" width="40">
   </td>
 </table>
-<!-- Cuerpo -->
-<p align = "center">
-🌱 I’m currently learning Flutter
+<p align="center">
+  🌱 I’m currently learning Flutter
 </p>
 <!-- Preesentacion -->
 <table align="center">
@@ -47,9 +48,22 @@
   Tecnologías y Herramientas
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20">
 </h2>
+
 <p align="center">
+  
   <!-- Lenguajes -->
   <img src="https://skillicons.dev/icons?i=html,css,python,java,javascript,php,dart" alt="Lenguajes" />
+  <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primeng-logo.png?fit=280%2C300&ssl=1" alt="PrimeFaces" width="48"
+  height="48" />
+  <img src="https://reflex.dev/favicon.ico" alt="Reflex" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=flutter,bootstrap,fastapi,mysql,mongodb,git,github,unreal,notion,androidstudio,aws,figma,vscode"         alt="Lenguajes" />
+  <div style="
+  width:48px;
+  height:48px;
+  background-color:white;
+  border-radius:8px;
+"><img src="https://translatorswithoutborders.org/wp-content/uploads/2021/12/Cisco-logo.png" width="48" height="48"/></div>
+
   <!-- Frameworks -->
 
 <!-- Snake -->
