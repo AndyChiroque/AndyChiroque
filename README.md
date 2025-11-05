@@ -11,6 +11,10 @@
 </h2>
 <!-- Contact-Presentation -->
 <p align="center">
+<a href="https://linkedin.com/in/andychiroque" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="andychiroque"/></a>
+<a href = "mailto:andyalessandrochiroqueadanaque@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@andychiroque"  /></a>
+</p>
+<p align="center">
 📫 Contact: <a href="mailto:andyalessandrochiroqueadanaque@gmail.com"><strong>andyalessandrochiroqueadanaque@gmail.com</strong></a>
 </p>
 <!-- characters-Presentation -->
