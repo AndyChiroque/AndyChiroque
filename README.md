@@ -28,7 +28,7 @@
 <table align="center">
   <tr>
     <td width="70%">
-      <p style="font-size:16px; line-height:1.6;">
+      <p style="font-size:16px; line-height:1.6;" align="justify">
         I am a <strong>Systems Engineering student</strong> with a strong interest in developing technological solutions that drive innovation            and optimize processes in diverse environments.  
         Throughout my studies, I have acquired a solid foundation in <strong>programming, data management, and networks</strong>, which has               allowed me to understand how technology can positively transform organizations.  
         I am known for my <strong>responsibility, analytical thinking, quick learning ability,</strong> and <strong>teamwork skills</strong>, as          well as my proactive and results-oriented attitude.  
