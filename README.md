@@ -60,7 +60,11 @@
  <img src="https://github.com/AndyChiroque/AndyChiroque/blob/main/%5BCITYPNG.COM%5DCisco%20Square%20Blue%20Logo%20Icon%20PNG%20-%204500x4500.png?raw=true" width="52" height="52"/>
 
   <!-- Frameworks -->
-
+ <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=andychiroque&theme=tokyonight&show_icons=true&count_private=true" />
+<img 
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andychiroque&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10" 
+    alt="andychiroque's Top Languages"
+  />
 <!-- Snake -->
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
