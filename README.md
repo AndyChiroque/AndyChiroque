@@ -99,7 +99,7 @@
       </tr>
     <tr> 
       <!-- most-languages-division-2-2 -->
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andychiroque&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andychiroque&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
     </tr>
     </table>
     </td>
