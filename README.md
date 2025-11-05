@@ -11,7 +11,7 @@ I am constantly learning, always seeking new challenges that allow me to grow pr
 </p>
 ### Tecnologías y Herramientas:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,python,php,java,jspf,dart,bootstrap,html,css,javascript,react,mysql,mongodb,flutter,aws,cisco" alt="Tecnologías y Herramientas" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,python,php,java,jspf,dart,bootstrap,html,css,javascript,react,mysql,mongodb,flutter,aws" alt="Tecnologías y Herramientas" />
   <img src="https://reflex.dev/favicon.ico" alt="Reflex" width="48" height="48" />
 </p>
 
