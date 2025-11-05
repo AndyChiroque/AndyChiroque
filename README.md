@@ -1,61 +1,62 @@
+<!-- Header -->
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIzMDUwNTUsIm5iZiI6MTc2MjMwNDc1NSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTA1VDAxMDU1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4NzllZjFmZmQwZDRkZTRkOWY4NzY5MWJmZjdhODZjODMyNmEzMmVmMTBjOWU2YmIxNzBmODhhY2NlNGJhOGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bqgsSN5saa3Pj_VD8lsh8EzRzSDVP7DLtHWn_qQoOMY" width="120">
+<img src="https://acortar.link/j55RrO" width="200"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 </p>
-<h2 align="center">
+<h2 align="center" >
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="20">
   Hi there, I'm Andy Chiroque 
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="25">
 </h2>
 
-<p align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="40">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="40">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="40">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="40">
+<table align="center">
+  <td>
+    <img src="https://media.tenor.com/JWOnNunaqQcAAAAi/laughing-butters-stotch.gif" width="40">
+    <img src="https://media.tenor.com/smRw9aD_35sAAAAi/urmom-kenny.gif" width="40">
+    <img src="https://www.gifss.com/comics/southpark/images/gif-South-Park-11.gif" width="40">
+    <img src="https://media.tenor.com/s6Hf6rzelHEAAAAj/playing-guitar-towelie.gif" width="40">
+    <img src="https://media.tenor.com/sLFOKwmbPtYAAAAj/conducting-kyle-broflovski.gif" width="40">
+    <img src="https://media.tenor.com/Tne3mdE5EeEAAAAi/conducting-stan-marsh.gif" width="40">
+    
+  </td>
+</table>
+<!-- Cuerpo -->
+<p align = "center">
+🌱 I’m currently learning Flutter
 </p>
----
+<!-- Preesentacion -->
 <table align="center">
   <tr>
-    <td width="70%" align="justify" style="border:none; padding:10px; vertical-align:middle;">
+    <td width="70%">
       <p style="font-size:16px; line-height:1.6;">
-        I am a <strong>Systems Engineering student</strong> with a strong interest in developing technological solutions that drive innovation and optimize processes in diverse environments.  
-        Throughout my studies, I have acquired a solid foundation in <strong>programming, data management, and networks</strong>, which has allowed me to understand how technology can positively transform organizations.  
-        I am known for my <strong>responsibility, analytical thinking, quick learning ability,</strong> and <strong>teamwork skills</strong>, as well as my proactive and results-oriented attitude.  
-        I am <strong>constantly learning</strong>, always seeking new challenges that allow me to grow professionally and contribute value through technology.
+        I am a <strong>Systems Engineering student</strong> with a strong interest in developing technological solutions that drive innovation            and optimize processes in diverse environments.  
+        Throughout my studies, I have acquired a solid foundation in <strong>programming, data management, and networks</strong>, which has               allowed me to understand how technology can positively transform organizations.  
+        I am known for my <strong>responsibility, analytical thinking, quick learning ability,</strong> and <strong>teamwork skills</strong>, as          well as my proactive and results-oriented attitude.  
+        I am <strong>constantly learning</strong>, always seeking new challenges that allow me to grow professionally and contribute value                through technology.
       </p>
     </td>
-    <td width="30%" align="center" style="border:none; vertical-align:middle;">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="280" alt="Coding animation"/>
+    <td width="30%">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="Coding           animation"/>
     </td>
   </tr>
 </table>
----
+<!-- Contador -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=addavo" alt="Profile Views"/>
 </p>
----
-## 🧠 Tecnologías y Herramientas
+
+<!-- Tecnoglogias -->
+<h2 align="center" >
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20">
+  Tecnologías y Herramientas
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20">
+</h2>
 <p align="center">
   <!-- Lenguajes -->
   <img src="https://skillicons.dev/icons?i=html,css,python,java,javascript,php,dart" alt="Lenguajes" />
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=flutter,bootstrap" alt="Frameworks" />
-  <a href="https://reflex.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Reflex-111111?style=flat-square&logo=python&logoColor=white" alt="Reflex" height="48" />
-  </a>
-  <a href="https://primefaces.github.io/primefaces/15_0_0/#/?id=main" target="_blank">
-    <img src="https://img.shields.io/badge/PrimeFaces-34495e?style=flat-square&logo=java&logoColor=white" alt="PrimeFaces" height="48" />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="48" />
-  </a>
-  <!-- Bases de Datos -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Bases de Datos" />
-  <!-- Herramientas -->
-  <img src="https://skillicons.dev/icons?i=git,github,unreal,notion,androidstudio,aws,figma,vscode" alt="Herramientas" />
-</p>
----
 
+<!-- Snake -->
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
