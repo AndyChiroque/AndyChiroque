@@ -58,7 +58,7 @@
         <img src="https://skillicons.dev/icons?i=css" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=python" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=java" alt="Lenguajes"/>
-        <img src="https://skillicons.dev/icons?i=javascript,php,dart" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=javascript" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=php" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=dart" alt="Lenguajes"/>  
         <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primeng-logo.png?fit=280%2C300&ssl=1" alt="PrimeFaces" width="48" height="48"/>
