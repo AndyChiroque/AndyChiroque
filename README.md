@@ -6,9 +6,10 @@
 </p>
 ### Tecnologías y Herramientas:
 <p align="left">
-    <p align="left">
-    <img src="https://skillicons.dev/icons?i=androidstudio,python,php,java,primefaces,dart,boostrap,html,css,javascript,reflex,mysql,mongodb,flutter" alt="Tecnologías y Herramientas" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,python,php,java,primefaces,dart,bootstrap,html,css,javascript,react,mysql,mongodb,flutter" alt="Tecnologías y Herramientas" />
+  <img src="https://reflex.dev/favicon.ico" alt="Reflex" width="48" height="48" />
 </p>
+
 </p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
