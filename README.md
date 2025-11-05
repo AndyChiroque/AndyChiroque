@@ -10,34 +10,43 @@ I am constantly learning, always seeking new challenges that allow me to grow pr
 </p>
 
 ---
-
-### 🧠 Lenguajes
+## 🧠 Lenguajes
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,java,dart,html,css,javascript" alt="Lenguajes"/>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" alt="Lenguajes" />
 </p>
 
----
-
-### ⚙️ Frameworks y Librerías
+## ⚙️ Frameworks y Librerías
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,react,flutter" alt="Frameworks"/>
-  <img src="https://reflex.dev/favicon.ico" alt="Reflex" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="PrimeFaces" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react,flutter,bootstrap" alt="Frameworks" />
+  <!-- PrimeFaces (badge cuadrado alineado a 48px) -->
+  <a href="https://primefaces.github.io/primefaces/15_0_0/#/?id=main" target="_blank">
+    <img src="https://img.shields.io/badge/PrimeFaces-34495e?style=flat-square&logo=java&logoColor=white" alt="PrimeFaces" height="48" />
+  </a>
+  <!-- Reflex (no existe en skillicons; badge cuadrado a 48px) -->
+  <a href="https://reflex.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Reflex-111111?style=flat-square&logo=python&logoColor=white" alt="Reflex" height="48" />
+  </a>
 </p>
 
----
-
-### 🗄️ Bases de Datos
+## 🗄️ Bases de Datos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Bases de Datos"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Bases de Datos" />
 </p>
 
----
-
-### 🧰 Herramientas
+## 🧰 Herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,figma,git,github,notion,vscode,unreal" alt="Herramientas"/>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,aws" alt="Herramientas" />
 </p>
+
+<!-- Opcionales plegados para no saturar -->
+<details>
+  <summary>➕ Más tecnologías (opcional)</summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=androidstudio,php,dart,notion,unreal" alt="Extras" />
+  </p>
+</details>
+
 
 ---
 
