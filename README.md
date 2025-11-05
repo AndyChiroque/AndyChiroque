@@ -6,7 +6,7 @@
 </p>
 ### Tecnologías y Herramientas:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,python,php,java,javaprimefaces,dart,bootstrap,html,css,javascript,react,mysql,mongodb,flutter" alt="Tecnologías y Herramientas" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,python,php,java,jspf,dart,bootstrap,html,css,javascript,react,mysql,mongodb,flutter" alt="Tecnologías y Herramientas" />
   <img src="https://reflex.dev/favicon.ico" alt="Reflex" width="48" height="48" />
 </p>
 
