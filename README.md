@@ -38,7 +38,7 @@
   </tr>
 </table>
 <!-- Contador -->
-<p align="center">
+<p align="center" >
   <img src="https://komarev.com/ghpvc/?username=addavo" alt="Profile Views"/>
 </p>
 
@@ -49,22 +49,55 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20">
 </h2>
 
-<p align="center">
-  
-  <!-- Lenguajes -->
-  <img src="https://skillicons.dev/icons?i=html,css,python,java,javascript,php,dart" alt="Lenguajes" />
-  <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primeng-logo.png?fit=280%2C300&ssl=1" alt="PrimeFaces" width="48"
-  height="48" />
-  <img src="https://reflex.dev/favicon.ico" alt="Reflex" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=flutter,bootstrap,fastapi,mysql,mongodb,git,github,unreal,notion,androidstudio,aws,figma,vscode"         alt="Lenguajes" />
- <img src="https://github.com/AndyChiroque/AndyChiroque/blob/main/%5BCITYPNG.COM%5DCisco%20Square%20Blue%20Logo%20Icon%20PNG%20-%204500x4500.png?raw=true" width="52" height="52"/>
+<table align="center">
+  <tr>
+    <!-- iconos -->
+    <td width="70%" align="justify">
+        <!-- Lenguajes -->
+        <img src="https://skillicons.dev/icons?i=html" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=css" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=python" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=java" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=javascript,php,dart" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=php" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=dart" alt="Lenguajes"/>  
+        <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primeng-logo.png?fit=280%2C300&ssl=1" alt="PrimeFaces" width="48" height="48"/>
+        <img src="https://reflex.dev/favicon.ico" alt="Reflex" width="48" height="48"/>
+        <img src="https://skillicons.dev/icons?i=flutter" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=mysql" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=git" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=github" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=unreal" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=notion" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=aws" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=figma" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=vscode" alt="Lenguajes"/>
+        <img src="https://github.com/AndyChiroque/AndyChiroque/blob/main/%5BCITYPNG.COM%5DCisco%20Square%20Blue%20Logo%20Icon%20PNG%20-%204500x4500.png?raw=true" width="48" height="48"/>
+    </td>
+    <!-- estadisticas -->
+    <td width="30%"> 
+      <!-- division -->
+    <table align="center">
+      <!-- stats -->
+      <tr>
+      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=andychiroque&theme=tokyonight&show_icons=true&count_private=true" />
+      </tr>
+    <tr> 
+      <!-- languages -->
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andychiroque&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </tr>
+    </table>
+    </td>
+  </tr>
+</table>
 
   <!-- Frameworks -->
- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=andychiroque&theme=tokyonight&show_icons=true&count_private=true" />
-<img 
-    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andychiroque&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10" 
-    alt="andychiroque's Top Languages"
-  />
+
+
 <!-- Snake -->
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
