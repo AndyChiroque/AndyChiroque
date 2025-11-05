@@ -1,4 +1,4 @@
-<img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIzMDUwNTUsIm5iZiI6MTc2MjMwNDc1NSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTA1VDAxMDU1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4NzllZjFmZmQwZDRkZTRkOWY4NzY5MWJmZjdhODZjODMyNmEzMmVmMTBjOWU2YmIxNzBmODhhY2NlNGJhOGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bqgsSN5saa3Pj_VD8lsh8EzRzSDVP7DLtHWn_qQoOMY" width="40">
+<img src="https://n9.cl/gt285e" width="40">
 <h2 align="center">
   Hi there, I'm Andy Chiroque 
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25">
