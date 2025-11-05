@@ -32,6 +32,7 @@
 <!-- index-Preesentacion -->
 <table align="center">
   <tr>
+    <!-- text-Preesentacion -->
     <td width="70%">
       <p style="font-size:16px; line-height:1.6;" align="justify">
         I am a <strong>Systems Engineering student</strong> with a strong interest in developing technological solutions that drive innovation            and optimize processes in diverse environments.  
@@ -40,28 +41,29 @@
         I am <strong>constantly learning</strong>, always seeking new challenges that allow me to grow professionally and contribute value                through technology.
       </p>
     </td>
+    <!-- img-Preesentacion -->
     <td width="30%">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="auto" alt="Coding           animation"/>
     </td>
   </tr>
 </table>
-<!-- Contador -->
+<!-- Counter -->
 <p align="center" >
   <img src="https://komarev.com/ghpvc/?username=addavo" alt="Profile Views"/>
 </p>
 
-<!-- Tecnoglogias -->
+<!-- Technologies and Tools -->
 <h2 align="center" >
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20">
-  Tecnologías y Herramientas
+  Technologies and Tools
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20">
 </h2>
 
 <table align="center">
   <tr>
-    <!-- iconos -->
+    <!-- division-1 -->
     <td width="70%" align="justify">
-        <!-- Lenguajes -->
+        <!-- Langs-division-1 -->
         <img src="https://skillicons.dev/icons?i=html" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=css" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=python" alt="Lenguajes"/>
@@ -87,25 +89,22 @@
         <img src="https://github.com/AndyChiroque/AndyChiroque/blob/main/%5BCITYPNG.COM%5DCisco%20Square%20Blue%20Logo%20Icon%20PNG%20-%204500x4500.png?raw=true" width="48" height="48"/>
         <img src="https://skillicons.dev/icons?i=markdown" alt="Lenguajes"/>
     </td>
-    <!-- estadisticas -->
+    <!-- stats-division-2-->
     <td width="30%"> 
-      <!-- division -->
+      <!-- division-2-table -->
     <table align="center">
-      <!-- stats -->
+      <!-- stats-division-2-1 -->
       <tr>
       <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=andychiroque&theme=tokyonight&show_icons=true&count_private=true" />
       </tr>
     <tr> 
-      <!-- languages -->
+      <!-- most-languages-division-2-2 -->
     <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andychiroque&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
     </tr>
     </table>
     </td>
   </tr>
 </table>
-
-  <!-- Frameworks -->
-
 
 <!-- Snake -->
 <p align="center">
