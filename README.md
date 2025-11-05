@@ -1,16 +1,19 @@
-<!-- Header -->
+<!-- Picture -->
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200"><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 </p>
+<!-- Name-Presentation -->
 <h2 align="center" >
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="20">
   Hi there, I'm Andy Chiroque 
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="25">
 </h2>
+<!-- Contact-Presentation -->
 <p align="center">
-📫 Contacto: <a href="mailto:andyalessandrochiroqueadanaque@gmail.com"><strong>andyalessandrochiroqueadanaque@gmail.com</strong></a>
+📫 Contact: <a href="mailto:andyalessandrochiroqueadanaque@gmail.com"><strong>andyalessandrochiroqueadanaque@gmail.com</strong></a>
 </p>
+<!-- characters-Presentation -->
 <table align="center">
   <td>
     <img src="https://media.tenor.com/sLFOKwmbPtYAAAAj/conducting-kyle-broflovski.gif" width="40">
@@ -18,10 +21,11 @@
     <img src="https://media.tenor.com/Tne3mdE5EeEAAAAi/conducting-stan-marsh.gif" width="40">
   </td>
 </table>
+<!-- learning-Presentation -->
 <p align="center">
   🌱 I’m currently learning Flutter
 </p>
-<!-- Preesentacion -->
+<!-- index-Preesentacion -->
 <table align="center">
   <tr>
     <td width="70%">
@@ -33,7 +37,7 @@
       </p>
     </td>
     <td width="30%">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="Coding           animation"/>
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="auto" alt="Coding           animation"/>
     </td>
   </tr>
 </table>
@@ -77,6 +81,7 @@
         <img src="https://skillicons.dev/icons?i=figma" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=vscode" alt="Lenguajes"/>
         <img src="https://github.com/AndyChiroque/AndyChiroque/blob/main/%5BCITYPNG.COM%5DCisco%20Square%20Blue%20Logo%20Icon%20PNG%20-%204500x4500.png?raw=true" width="48" height="48"/>
+        <img src="https://skillicons.dev/icons?i=markdown" alt="Lenguajes"/>
     </td>
     <!-- estadisticas -->
     <td width="30%"> 
