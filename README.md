@@ -13,20 +13,26 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="40">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="40">
 </p>
-
-<p align="center">
-I am a Systems Engineering student with a strong interest in developing technological solutions that drive innovation and optimize processes in diverse environments.  
-Throughout my studies, I have acquired a solid foundation in programming, data management, and networks, which has allowed me to understand how technology can positively transform organizations.  
-I am known for my responsibility, analytical thinking, quick learning ability, and teamwork skills, as well as my proactive and results-oriented attitude.  
-I am constantly learning, always seeking new challenges that allow me to grow professionally and contribute value through technology.
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="180"/>
-</p>
+---
+<table align="center">
+  <tr>
+    <td width="70%" align="justify" style="border:none; padding:10px; vertical-align:middle;">
+      <p style="font-size:16px; line-height:1.6;">
+        I am a <strong>Systems Engineering student</strong> with a strong interest in developing technological solutions that drive innovation and optimize processes in diverse environments.  
+        Throughout my studies, I have acquired a solid foundation in <strong>programming, data management, and networks</strong>, which has allowed me to understand how technology can positively transform organizations.  
+        I am known for my <strong>responsibility, analytical thinking, quick learning ability,</strong> and <strong>teamwork skills</strong>, as well as my proactive and results-oriented attitude.  
+        I am <strong>constantly learning</strong>, always seeking new challenges that allow me to grow professionally and contribute value through technology.
+      </p>
+    </td>
+    <td width="30%" align="center" style="border:none; vertical-align:middle;">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="280" alt="Coding animation"/>
+    </td>
+  </tr>
+</table>
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=addavo" alt="Profile Views"/>
 </p>
-
 ---
 ## 🧠 Tecnologías y Herramientas
 <p align="center">
