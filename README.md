@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Andy Chiroque <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 I am a Systems Engineering student with a strong interest in developing technological solutions that drive innovation and optimize processes in diverse environments.  
 Throughout my studies, I have acquired a solid foundation in programming, data management, and networks, which has allowed me to understand how technology can positively transform organizations.  
