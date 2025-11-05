@@ -57,12 +57,7 @@
   height="48" />
   <img src="https://reflex.dev/favicon.ico" alt="Reflex" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=flutter,bootstrap,fastapi,mysql,mongodb,git,github,unreal,notion,androidstudio,aws,figma,vscode"         alt="Lenguajes" />
-  <div style="
-  width:48px;
-  height:48px;
-  background-color:white;
-  border-radius:8px;
-"><img src="https://translatorswithoutborders.org/wp-content/uploads/2021/12/Cisco-logo.png" width="48" height="48"/></div>
+ <img src="https://github.com/AndyChiroque/AndyChiroque/blob/main/%5BCITYPNG.COM%5DCisco%20Square%20Blue%20Logo%20Icon%20PNG%20-%204500x4500.png?raw=true" width="52" height="52"/>
 
   <!-- Frameworks -->
 
