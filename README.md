@@ -11,13 +11,9 @@
 
 <table align="center">
   <td>
-    <img src="https://media.tenor.com/JWOnNunaqQcAAAAi/laughing-butters-stotch.gif" width="40">
-    <img src="https://media.tenor.com/smRw9aD_35sAAAAi/urmom-kenny.gif" width="40">
-    <img src="https://www.gifss.com/comics/southpark/images/gif-South-Park-11.gif" width="40">
-    <img src="https://media.tenor.com/s6Hf6rzelHEAAAAj/playing-guitar-towelie.gif" width="40">
     <img src="https://media.tenor.com/sLFOKwmbPtYAAAAj/conducting-kyle-broflovski.gif" width="40">
+    <img src="https://www.gifss.com/comics/southpark/images/gif-South-Park-11.gif" width="45">
     <img src="https://media.tenor.com/Tne3mdE5EeEAAAAi/conducting-stan-marsh.gif" width="40">
-    
   </td>
 </table>
 <!-- Cuerpo -->
