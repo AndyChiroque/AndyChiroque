@@ -10,44 +10,26 @@ I am constantly learning, always seeking new challenges that allow me to grow pr
 </p>
 
 ---
-## 🧠 Lenguajes
+## 🧠 Tecnologías y Herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" alt="Lenguajes" />
-</p>
-
-## ⚙️ Frameworks y Librerías
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,bootstrap" alt="Frameworks" />
-  <!-- PrimeFaces (badge cuadrado alineado a 48px) -->
-  <a href="https://primefaces.github.io/primefaces/15_0_0/#/?id=main" target="_blank">
-    <img src="https://img.shields.io/badge/PrimeFaces-34495e?style=flat-square&logo=java&logoColor=white" alt="PrimeFaces" height="48" />
-  </a>
-  <!-- Reflex (no existe en skillicons; badge cuadrado a 48px) -->
+  <!-- Lenguajes -->
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,javascript,php,dart" alt="Lenguajes" />
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=flutter,bootstrap" alt="Frameworks" />
   <a href="https://reflex.dev" target="_blank">
     <img src="https://img.shields.io/badge/Reflex-111111?style=flat-square&logo=python&logoColor=white" alt="Reflex" height="48" />
   </a>
-</p>
-
-## 🗄️ Bases de Datos
-<p align="center">
+  <a href="https://primefaces.github.io/primefaces/15_0_0/#/?id=main" target="_blank">
+    <img src="https://img.shields.io/badge/PrimeFaces-34495e?style=flat-square&logo=java&logoColor=white" alt="PrimeFaces" height="48" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="48" />
+  </a>
+  <!-- Bases de Datos -->
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Bases de Datos" />
+  <!-- Herramientas -->
+  <img src="https://skillicons.dev/icons?i=git,github,unreal,notion,androidstudio,aws,figma,vscode" alt="Herramientas" />
 </p>
-
-## 🧰 Herramientas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,aws" alt="Herramientas" />
-</p>
-
-<!-- Opcionales plegados para no saturar -->
-<details>
-  <summary>➕ Más tecnologías (opcional)</summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,php,dart,notion,unreal" alt="Extras" />
-  </p>
-</details>
-
-
 ---
 
 <p align="center">
