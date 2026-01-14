@@ -95,11 +95,11 @@
     <table align="center">
       <!-- stats-division-2-1 -->
       <tr>
-      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=andychiroque&theme=tokyonight&show_icons=true&count_private=true" />
+      <img  align="center"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndyChiroque&theme=vue-dark&hide=prs,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=en" />
       </tr>
     <tr> 
       <!-- most-languages-division-2-2 -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andychiroque&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndyChiroque&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=vue-dark&hide_border=true"/>
     </tr>
     </table>
     </td>
