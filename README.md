@@ -99,7 +99,7 @@
       </tr>
     <tr> 
       <!-- most-languages-division-2-2 -->
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndyChiroque&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=vue-dark&hide_border=true"/>
+    <img align="center" src="![Top Langs](https://github-states-generator.vercel.app/api/top-langs/?username=AndyChiroque&theme=tokyonight&show_icons=true&hide_border=true)"/>
     </tr>
     </table>
     </td>
