@@ -95,7 +95,7 @@
     <table align="center">
       <!-- stats-division-2-1 -->
       <tr>
-      <img  align="center"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndyChiroque&theme=vue-dark&hide=prs,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=en" />
+      <img  align="center"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndyChiroque&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=vue-dark&hide_border=true" />
       </tr>
     <tr> 
       <!-- most-languages-division-2-2 -->
