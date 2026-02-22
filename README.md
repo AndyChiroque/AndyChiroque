@@ -99,7 +99,7 @@
       </tr>
     <tr> 
       <!-- most-languages-division-2-2 -->
-    <img align="center" src="https://github-states-generator.vercel.app/api/top-langs/?username=AndyChiroque&theme=tokyonight&show_icons=true&hide_border=true"/>
+    <img align="center" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=AndyChiroque"/>
     </tr>
     </table>
     </td>
