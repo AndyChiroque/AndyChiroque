@@ -69,6 +69,7 @@
         <img src="https://skillicons.dev/icons?i=python" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=java" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=javascript" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=react" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=php" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=dart" alt="Lenguajes"/>  
         <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primeng-logo.png?fit=280%2C300&ssl=1" alt="PrimeFaces" width="48" height="48"/>
@@ -78,12 +79,14 @@
         <img src="https://skillicons.dev/icons?i=fastapi" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=mysql" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=mongodb" alt="Lenguajes"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48"/>
         <img src="https://skillicons.dev/icons?i=git" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=github" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=unreal" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=notion" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=aws" alt="Lenguajes"/>
+        <img src="https://skillicons.dev/icons?i=firebase" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=figma" alt="Lenguajes"/>
         <img src="https://skillicons.dev/icons?i=vscode" alt="Lenguajes"/>
         <img src="https://github.com/AndyChiroque/AndyChiroque/blob/main/%5BCITYPNG.COM%5DCisco%20Square%20Blue%20Logo%20Icon%20PNG%20-%204500x4500.png?raw=true" width="48" height="48"/>
