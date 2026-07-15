@@ -98,11 +98,11 @@
     <table align="center">
       <!-- stats-division-2-1 -->
       <tr>
-      <img  align="center"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndyChiroque&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=vue-dark&hide_border=true" width="450" />
+      <img  align="center"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndyChiroque&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=vue-dark&hide_border=true" />
       </tr>
     <tr> 
       <!-- most-languages-division-2-2 -->
-    <img align="center" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=AndyChiroque"/>
+    <img align="center" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=AndyChiroque" />
     </tr>
     </table>
     </td>
